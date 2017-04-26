@@ -64,7 +64,7 @@
 <tspan x="10" y="986">  │ │ │ │ │ ├─┬ detective@4.5.0 </tspan>
 <tspan x="10" y="1002">  │ │ │ │ │ │ ├── acorn@4.0.11 </tspan>
 <tspan x="10" y="1018">  │ │ │ │ │ │ └── defined@1.0.0 </tspan>
-<tspan x="10" y="1034">  │ │ │ │ │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="1034">  │ │ │ │ │ ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="1050">  │ │ │ │ │ ├── q@1.5.0 </tspan>
 <tspan x="10" y="1066">  │ │ │ │ │ └─┬ recast@0.11.23 </tspan>
 <tspan x="10" y="1082">  │ │ │ │ │   ├── ast-types@0.9.6 </tspan>
@@ -84,7 +84,7 @@
 <tspan x="10" y="1306">  │ │ │ │ │   ├─┬ cliui@2.1.0 </tspan>
 <tspan x="10" y="1322">  │ │ │ │ │   │ ├─┬ center-align@0.1.3 </tspan>
 <tspan x="10" y="1338">  │ │ │ │ │   │ │ ├─┬ align-text@0.1.4 </tspan>
-<tspan x="10" y="1354">  │ │ │ │ │   │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="1354">  │ │ │ │ │   │ │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="1370">  │ │ │ │ │   │ │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="1386">  │ │ │ │ │   │ │ │ ├── longest@1.0.1 </tspan>
 <tspan x="10" y="1402">  │ │ │ │ │   │ │ │ └── repeat-string@1.6.1 </tspan>
@@ -126,7 +126,7 @@
 <tspan x="10" y="1978">  │ │ │ │ └─┬ istextorbinary@2.1.0 </tspan>
 <tspan x="10" y="1994">  │ │ │ │   ├── binaryextensions@2.0.0 </tspan>
 <tspan x="10" y="2010">  │ │ │ │   ├── editions@1.3.3 </tspan>
-<tspan x="10" y="2026">  │ │ │ │   └── textextensions@2.0.1 </tspan>
+<tspan x="10" y="2026">  │ │ │ │   └── textextensions@2.1.0 </tspan>
 <tspan x="10" y="2042">  │ │ │ ├─┬ md5-hex@1.3.0 </tspan>
 <tspan x="10" y="2058">  │ │ │ │ └── md5-o-matic@0.1.1 </tspan>
 <tspan x="10" y="2074">  │ │ │ ├── promise-map-series@0.2.3 </tspan>
@@ -137,7 +137,7 @@
 <tspan x="10" y="2154">  │ │ │   └── glob@5.0.15 </tspan>
 <tspan x="10" y="2170">  │ │ └─┬ json-stable-stringify@1.0.1 </tspan>
 <tspan x="10" y="2186">  │ │   └── jsonify@0.0.0 </tspan>
-<tspan x="10" y="2202">  │ ├─┬ broccoli-funnel@1.1.0 </tspan>
+<tspan x="10" y="2202">  │ ├─┬ broccoli-funnel@1.2.0 </tspan>
 <tspan x="10" y="2218">  │ │ ├── array-equal@1.0.0 </tspan>
 <tspan x="10" y="2234">  │ │ ├── blank-object@1.0.2 </tspan>
 <tspan x="10" y="2250">  │ │ ├─┬ broccoli-plugin@1.3.0 </tspan>
@@ -146,8 +146,8 @@
 <tspan x="10" y="2298">  │ │ │   └─┬ underscore.string@3.3.4 </tspan>
 <tspan x="10" y="2314">  │ │ │     ├── sprintf-js@1.0.3 </tspan>
 <tspan x="10" y="2330">  │ │ │     └── util-deprecate@1.0.2 </tspan>
-<tspan x="10" y="2346">  │ │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="2362">  │ │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="2346">  │ │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="2362">  │ │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="2378">  │ │ ├── exists-sync@0.0.4 </tspan>
 <tspan x="10" y="2394">  │ │ ├── fast-ordered-set@1.0.3 </tspan>
 <tspan x="10" y="2410">  │ │ ├─┬ fs-tree-diff@0.5.6 </tspan>
@@ -175,9 +175,9 @@
 <tspan x="10" y="2762">  │ │   └─┬ matcher-collection@1.0.4 </tspan>
 <tspan x="10" y="2778">  │ │     └── minimatch@3.0.3 </tspan>
 <tspan x="10" y="2794">  │ ├── clone@2.1.1 </tspan>
-<tspan x="10" y="2810">  │ ├─┬ ember-cli-version-checker@1.2.0 </tspan>
+<tspan x="10" y="2810">  │ ├─┬ ember-cli-version-checker@1.3.1 </tspan>
 <tspan x="10" y="2826">  │ │ └── semver@5.3.0 </tspan>
-<tspan x="10" y="2842">  │ └─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="2842">  │ └─┬ resolve@1.3.3 </tspan>
 <tspan x="10" y="2858">  │   └── path-parse@1.0.5 </tspan>
 <tspan x="10" y="2874">  └── object-assign@3.0.0</tspan>
 </text>
