@@ -1,6 +1,6 @@
 # npmtest-ember-devtools
 
-#### test coverage for  ember-devtools (v5.1.1)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-devtools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-devtools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-devtools.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-devtools)
+#### basic test coverage for  ember-devtools (v5.1.1)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-devtools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-devtools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-devtools.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-devtools)
 
 #### A collection of useful functions for developing Ember apps
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ember-devtools/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ember-devtools/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ember-devtools/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ember-devtools/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-devtools/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-devtools/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ember-devtools/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ember-devtools/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-devtools/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-devtools/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ember-devtools/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ember-devtools/build/coverage.html/index.html)
 
@@ -94,7 +94,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "5.1.1"
+    "version": "5.1.1",
+    "bin": {}
 }
 ```
 
