@@ -121,7 +121,7 @@
 <tspan x="10" y="1898">  │ │ │ ├─┬ can-symlink@1.0.0 </tspan>
 <tspan x="10" y="1914">  │ │ │ │ └── tmp@0.0.28 </tspan>
 <tspan x="10" y="1930">  │ │ │ └── heimdalljs-logger@0.1.9 </tspan>
-<tspan x="10" y="1946">  │ │ ├─┬ broccoli-persistent-filter@1.2.13 </tspan>
+<tspan x="10" y="1946">  │ │ ├─┬ broccoli-persistent-filter@1.3.1 </tspan>
 <tspan x="10" y="1962">  │ │ │ ├─┬ async-disk-cache@1.3.1 </tspan>
 <tspan x="10" y="1978">  │ │ │ │ └─┬ istextorbinary@2.1.0 </tspan>
 <tspan x="10" y="1994">  │ │ │ │   ├── binaryextensions@2.0.0 </tspan>
@@ -146,7 +146,7 @@
 <tspan x="10" y="2298">  │ │ │   └─┬ underscore.string@3.3.4 </tspan>
 <tspan x="10" y="2314">  │ │ │     ├── sprintf-js@1.0.3 </tspan>
 <tspan x="10" y="2330">  │ │ │     └── util-deprecate@1.0.2 </tspan>
-<tspan x="10" y="2346">  │ │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="2346">  │ │ ├─┬ debug@2.6.5 </tspan>
 <tspan x="10" y="2362">  │ │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="2378">  │ │ ├── exists-sync@0.0.4 </tspan>
 <tspan x="10" y="2394">  │ │ ├── fast-ordered-set@1.0.3 </tspan>
